@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="Synk/Synk.swiftpm/Assets.xcassets/synk-icon-rounded.PNG" width="200">  <!-- Optional logo image, you can remove or replace this line -->
+   <img src="Screenshots/synk-icon-rounded.png" width="200">  <!-- Optional logo image, you can remove or replace this line -->
 </p>
 
 <h1 align="center">Synk 🔮</h1>
@@ -26,9 +26,9 @@
 ## Screenshots  
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="Synk/Synk.swiftpm/Assets.xcassets/synk-homepage.png" width="30%" />  &nbsp
-  <img src="Synk/Synk.swiftpm/Assets.xcassets/synk-results.png" width="30%" /> &nbsp
-  <img src="Synk/Synk.swiftpm/Assets.xcassets/synesthetic-profile.png" width="30%" />
+  <img src="Screenshots/synk-home.PNG" width="30%" />  &nbsp
+  <img src="Screenshots/synk-results.PNG" width="30%" /> &nbsp
+  <img src="Screenshots/synesthetic-profile.PNG" width="30%" />
 </div>
 
 ## Requirements  
