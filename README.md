@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="Synk/Synk.swiftpm/Assets.xcassets/synk-icon-rounded.png" width="200">  <!-- Optional logo image, you can remove or replace this line -->
+   <img src="Synk/Synk.swiftpm/Assets.xcassets/synk-icon-rounded.PNG" width="200">  <!-- Optional logo image, you can remove or replace this line -->
 </p>
 
 <h1 align="center">Synk 🔮</h1>
@@ -61,7 +61,7 @@
 
 ## Author
 Created by <b>Dario Saldamarco.</b> <br>
-*UX/UI Designer & iOS Developer exploring the intersection of perception, design, and play.*
+*UX/UI Designer & iOS Developer exploring the intersection of perception, design, and play.* <br>
 Feel free to reach out for feedback or collaboration!
 
 ## 📄 License
